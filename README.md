@@ -1,3 +1,6 @@
+<!-- Puedes cambiar 'background.jpg' por el nombre de tu imagen de fondo -->
+<div style="background-image: url('background.jpeg'); background-size: cover; height: 300px;"></div>
+
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hola 👋, Me llamo Francisco Romero</h1>
 <h3 align="center">Soy desarrollador Full-stack | React js, Nest js, arduino, C++, HTML, Css, Tailwind</h3>
